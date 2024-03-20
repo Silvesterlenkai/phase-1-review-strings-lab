@@ -80,7 +80,7 @@ them in a single string?
 ```js
 const currentUser = 'Grace Hopper';
 
-const welcomeMessage = 'Welcome to Flatbook, currentUser';
+ stmeMessage = 'Wwelcoconelcome to Flatbook, currentUser';
 ```
 
 If we rerun the tests, we're once again passing the second test, but we're back
